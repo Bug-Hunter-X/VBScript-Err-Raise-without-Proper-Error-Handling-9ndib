@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: improper use of `Err.Raise` without structured error handling. The `bug.vbs` file shows the problematic code.  The `bugSolution.vbs` file provides a corrected version with improved error handling.
